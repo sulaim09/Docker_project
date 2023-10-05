@@ -6,7 +6,7 @@ We will understand Dockerfile instructions by building a sample project. clone t
 
 git clone https://github.com/bbachi/dockerfile-examples.git
 Here are all the commands that we can use in the Dockerfile.
-
+ALL COMMAND
 Comments
 FROM
 CMD
@@ -24,3 +24,4 @@ USER
 VOLUME
 Comments
 Comments in the dockerfile start with # and you can put anywhere those comments.
+
